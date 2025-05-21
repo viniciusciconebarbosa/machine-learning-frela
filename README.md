@@ -1,5 +1,3 @@
-# Sistema de Previsão de Churn para Academia
-
 Este é um sistema que utiliza machine learning para identificar alunos de academia que estão em risco de cancelamento (churn).
 
 ## Descrição
