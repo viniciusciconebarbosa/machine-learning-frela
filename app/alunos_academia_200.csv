@@ -1,0 +1,201 @@
+ID,Nome,Idade,Gênero,Altura,Peso,IMC,Objetivo,Frequência_Semanal,Tempo_de_Assinatura,Plano,Presenças_Último_Mês,Churn
+1,Aluno_1,56,Masculino,1.72,56.3,19.0,Ganhar Massa,4,20,Trimestral,14,0
+2,Aluno_2,46,Feminino,1.62,75.4,28.7,Condicionamento,4,5,Mensal,13,0
+3,Aluno_3,32,Feminino,1.81,80.6,24.6,Condicionamento,5,1,Mensal,6,0
+4,Aluno_4,25,Masculino,1.71,85.4,29.2,Perda de Peso,5,30,Mensal,19,1
+5,Aluno_5,38,Feminino,1.79,61.7,19.3,Condicionamento,1,3,Mensal,1,0
+6,Aluno_6,56,Feminino,1.81,67.0,20.5,Ganhar Massa,2,14,Anual,6,0
+7,Aluno_7,36,Feminino,1.6,72.4,28.3,Ganhar Massa,5,30,Anual,5,0
+8,Aluno_8,40,Feminino,1.84,90.5,26.7,Ganhar Massa,4,4,Trimestral,16,0
+9,Aluno_9,28,Masculino,1.79,71.1,22.2,Ganhar Massa,3,18,Trimestral,1,0
+10,Aluno_10,28,Masculino,1.64,85.5,31.8,Condicionamento,4,25,Anual,2,0
+11,Aluno_11,41,Feminino,1.73,71.7,24.0,Condicionamento,2,1,Anual,4,0
+12,Aluno_12,53,Feminino,1.73,81.5,27.2,Ganhar Massa,4,15,Mensal,4,0
+13,Aluno_13,57,Masculino,1.7,80.3,27.8,Ganhar Massa,1,9,Mensal,0,0
+14,Aluno_14,41,Masculino,1.79,71.7,22.4,Condicionamento,2,15,Trimestral,7,0
+15,Aluno_15,20,Feminino,1.84,59.8,17.7,Ganhar Massa,3,24,Anual,11,0
+16,Aluno_16,39,Masculino,1.7,67.3,23.3,Perda de Peso,1,4,Trimestral,3,0
+17,Aluno_17,19,Feminino,1.83,84.9,25.4,Ganhar Massa,2,12,Anual,12,0
+18,Aluno_18,41,Feminino,1.8,78.8,24.3,Ganhar Massa,3,6,Mensal,14,0
+19,Aluno_19,47,Masculino,1.72,65.7,22.2,Perda de Peso,1,24,Trimestral,10,0
+20,Aluno_20,55,Masculino,1.72,66.6,22.5,Perda de Peso,1,11,Trimestral,9,1
+21,Aluno_21,19,Feminino,1.58,52.7,21.1,Condicionamento,2,13,Anual,2,0
+22,Aluno_22,38,Feminino,1.55,84.4,35.1,Condicionamento,5,34,Mensal,13,1
+23,Aluno_23,50,Masculino,1.72,78.9,26.7,Perda de Peso,1,25,Trimestral,15,0
+24,Aluno_24,29,Feminino,1.61,68.6,26.5,Perda de Peso,1,7,Mensal,9,0
+25,Aluno_25,39,Masculino,1.7,72.0,24.9,Condicionamento,3,4,Trimestral,9,0
+26,Aluno_26,42,Feminino,1.65,48.3,17.7,Ganhar Massa,4,8,Mensal,11,1
+27,Aluno_27,44,Masculino,1.52,65.1,28.2,Perda de Peso,2,20,Anual,8,0
+28,Aluno_28,59,Masculino,1.74,83.3,27.5,Condicionamento,2,29,Trimestral,0,1
+29,Aluno_29,45,Masculino,1.66,79.8,29.0,Ganhar Massa,5,10,Trimestral,4,1
+30,Aluno_30,33,Feminino,1.71,73.3,25.1,Perda de Peso,5,34,Mensal,19,0
+31,Aluno_31,32,Feminino,1.61,69.9,27.0,Ganhar Massa,2,26,Mensal,7,0
+32,Aluno_32,20,Masculino,1.67,78.0,28.0,Condicionamento,5,3,Trimestral,10,0
+33,Aluno_33,54,Feminino,1.86,67.2,19.4,Perda de Peso,3,6,Anual,11,0
+34,Aluno_34,24,Masculino,1.71,53.4,18.3,Ganhar Massa,2,5,Mensal,0,1
+35,Aluno_35,38,Masculino,1.75,69.9,22.8,Perda de Peso,5,5,Mensal,19,1
+36,Aluno_36,26,Feminino,1.57,74.0,30.0,Ganhar Massa,2,23,Mensal,10,0
+37,Aluno_37,56,Feminino,1.94,81.2,21.6,Condicionamento,4,9,Trimestral,4,0
+38,Aluno_38,35,Masculino,1.88,55.6,15.7,Condicionamento,1,35,Trimestral,14,1
+39,Aluno_39,21,Feminino,1.84,68.8,20.3,Perda de Peso,2,20,Trimestral,4,0
+40,Aluno_40,42,Feminino,1.78,69.2,21.8,Ganhar Massa,1,35,Trimestral,11,1
+41,Aluno_41,31,Masculino,1.7,59.0,20.4,Perda de Peso,5,18,Anual,4,0
+42,Aluno_42,26,Masculino,1.74,74.9,24.7,Perda de Peso,1,17,Anual,16,0
+43,Aluno_43,43,Feminino,1.8,77.5,23.9,Ganhar Massa,2,24,Trimestral,16,0
+44,Aluno_44,19,Masculino,1.64,67.1,24.9,Ganhar Massa,4,3,Anual,11,0
+45,Aluno_45,37,Masculino,1.66,90.6,32.9,Ganhar Massa,5,32,Mensal,14,0
+46,Aluno_46,45,Feminino,1.53,66.8,28.5,Condicionamento,2,35,Mensal,14,0
+47,Aluno_47,24,Masculino,1.62,65.5,25.0,Perda de Peso,5,13,Mensal,5,0
+48,Aluno_48,25,Masculino,1.87,65.2,18.6,Perda de Peso,3,25,Trimestral,11,0
+49,Aluno_49,52,Feminino,1.67,61.8,22.2,Condicionamento,1,9,Mensal,19,1
+50,Aluno_50,31,Feminino,1.67,64.4,23.1,Ganhar Massa,3,4,Anual,17,0
+51,Aluno_51,34,Masculino,1.73,55.7,18.6,Condicionamento,2,14,Trimestral,13,0
+52,Aluno_52,53,Masculino,1.54,68.1,28.7,Condicionamento,4,34,Anual,1,0
+53,Aluno_53,57,Feminino,1.79,70.6,22.0,Condicionamento,5,11,Mensal,8,0
+54,Aluno_54,21,Feminino,1.83,47.2,14.1,Perda de Peso,1,3,Mensal,4,0
+55,Aluno_55,19,Feminino,1.74,69.0,22.8,Condicionamento,5,28,Mensal,19,0
+56,Aluno_56,23,Feminino,1.87,70.4,20.1,Perda de Peso,2,29,Trimestral,0,0
+57,Aluno_57,59,Masculino,1.57,75.1,30.5,Perda de Peso,5,9,Anual,2,0
+58,Aluno_58,21,Feminino,1.88,82.0,23.2,Perda de Peso,1,3,Trimestral,5,0
+59,Aluno_59,46,Feminino,1.63,78.5,29.5,Ganhar Massa,2,25,Trimestral,4,0
+60,Aluno_60,35,Masculino,1.57,63.8,25.9,Perda de Peso,5,34,Mensal,4,1
+61,Aluno_61,43,Feminino,1.68,62.6,22.2,Perda de Peso,4,12,Trimestral,0,0
+62,Aluno_62,51,Masculino,1.89,75.8,21.2,Ganhar Massa,2,9,Trimestral,16,0
+63,Aluno_63,27,Feminino,1.7,64.5,22.3,Perda de Peso,2,15,Mensal,18,0
+64,Aluno_64,53,Feminino,1.61,57.7,22.3,Condicionamento,4,25,Trimestral,13,0
+65,Aluno_65,31,Feminino,1.57,93.7,38.0,Condicionamento,3,5,Mensal,11,0
+66,Aluno_66,48,Masculino,1.69,66.9,23.4,Perda de Peso,1,11,Mensal,9,0
+67,Aluno_67,32,Masculino,1.5,63.7,28.3,Ganhar Massa,3,34,Mensal,19,1
+68,Aluno_68,25,Feminino,1.57,48.1,19.5,Condicionamento,5,24,Mensal,17,0
+69,Aluno_69,31,Masculino,1.85,78.5,22.9,Ganhar Massa,4,15,Trimestral,10,0
+70,Aluno_70,40,Masculino,1.83,60.1,17.9,Ganhar Massa,3,8,Mensal,1,0
+71,Aluno_71,57,Masculino,1.69,70.3,24.6,Condicionamento,2,5,Mensal,17,0
+72,Aluno_72,38,Masculino,1.65,79.7,29.3,Ganhar Massa,5,26,Trimestral,6,0
+73,Aluno_73,33,Masculino,1.71,60.3,20.6,Condicionamento,5,18,Trimestral,14,0
+74,Aluno_74,35,Masculino,1.93,70.8,19.0,Ganhar Massa,3,6,Anual,10,0
+75,Aluno_75,41,Feminino,1.74,85.2,28.1,Condicionamento,3,13,Trimestral,17,1
+76,Aluno_76,43,Feminino,1.79,45.4,14.2,Perda de Peso,4,28,Trimestral,11,0
+77,Aluno_77,42,Masculino,1.68,61.9,21.9,Condicionamento,1,5,Anual,5,0
+78,Aluno_78,58,Feminino,1.71,61.0,20.9,Condicionamento,3,13,Trimestral,19,0
+79,Aluno_79,46,Feminino,1.76,68.1,22.0,Condicionamento,3,17,Trimestral,12,0
+80,Aluno_80,32,Feminino,1.71,69.5,23.8,Condicionamento,2,32,Trimestral,19,0
+81,Aluno_81,18,Feminino,1.51,59.4,26.1,Ganhar Massa,5,29,Trimestral,15,0
+82,Aluno_82,42,Masculino,1.83,63.5,19.0,Perda de Peso,1,3,Anual,17,0
+83,Aluno_83,24,Feminino,1.64,62.3,23.2,Condicionamento,2,34,Trimestral,9,1
+84,Aluno_84,26,Feminino,1.91,66.5,18.2,Ganhar Massa,4,27,Trimestral,7,0
+85,Aluno_85,41,Masculino,1.77,72.2,23.0,Perda de Peso,4,13,Anual,17,0
+86,Aluno_86,18,Masculino,1.71,79.1,27.1,Perda de Peso,3,33,Mensal,0,1
+87,Aluno_87,25,Feminino,1.74,80.6,26.6,Perda de Peso,3,6,Anual,7,0
+88,Aluno_88,41,Feminino,1.69,76.5,26.8,Perda de Peso,4,24,Mensal,5,0
+89,Aluno_89,28,Feminino,1.65,61.3,22.5,Condicionamento,3,19,Anual,4,0
+90,Aluno_90,34,Feminino,1.72,70.0,23.7,Condicionamento,1,16,Anual,14,0
+91,Aluno_91,25,Feminino,1.79,93.7,29.2,Ganhar Massa,3,28,Trimestral,14,0
+92,Aluno_92,52,Feminino,1.65,80.1,29.4,Ganhar Massa,5,33,Mensal,1,1
+93,Aluno_93,52,Masculino,1.64,65.6,24.4,Ganhar Massa,3,13,Trimestral,0,0
+94,Aluno_94,50,Feminino,1.66,85.8,31.1,Perda de Peso,2,25,Mensal,10,0
+95,Aluno_95,22,Feminino,1.8,66.1,20.4,Perda de Peso,1,27,Anual,9,0
+96,Aluno_96,59,Masculino,1.85,63.3,18.5,Condicionamento,2,7,Anual,17,0
+97,Aluno_97,56,Masculino,1.74,84.0,27.7,Perda de Peso,2,5,Mensal,17,0
+98,Aluno_98,58,Masculino,1.76,56.9,18.4,Perda de Peso,5,31,Trimestral,16,0
+99,Aluno_99,45,Masculino,1.64,50.9,18.9,Perda de Peso,1,23,Trimestral,7,1
+100,Aluno_100,24,Feminino,1.79,79.4,24.8,Ganhar Massa,1,10,Trimestral,14,0
+101,Aluno_101,26,Feminino,1.76,70.3,22.7,Ganhar Massa,1,32,Trimestral,7,0
+102,Aluno_102,25,Feminino,1.63,71.3,26.8,Condicionamento,1,30,Anual,16,0
+103,Aluno_103,29,Feminino,1.52,66.4,28.7,Perda de Peso,1,31,Anual,11,0
+104,Aluno_104,51,Feminino,1.58,67.6,27.1,Perda de Peso,5,18,Anual,7,0
+105,Aluno_105,50,Feminino,1.63,65.4,24.6,Condicionamento,3,2,Anual,13,0
+106,Aluno_106,40,Masculino,1.82,63.7,19.2,Perda de Peso,2,14,Anual,3,1
+107,Aluno_107,41,Feminino,1.86,66.2,19.1,Perda de Peso,1,13,Trimestral,0,0
+108,Aluno_108,54,Masculino,1.66,65.9,23.9,Ganhar Massa,3,29,Trimestral,0,0
+109,Aluno_109,52,Masculino,1.66,61.7,22.4,Condicionamento,3,12,Trimestral,18,1
+110,Aluno_110,57,Feminino,1.73,64.5,21.6,Condicionamento,2,2,Trimestral,15,1
+111,Aluno_111,39,Masculino,1.7,45.0,15.6,Condicionamento,5,32,Anual,13,0
+112,Aluno_112,44,Feminino,1.79,76.8,24.0,Condicionamento,4,13,Anual,15,0
+113,Aluno_113,52,Masculino,1.65,73.9,27.1,Ganhar Massa,4,27,Anual,4,0
+114,Aluno_114,18,Feminino,1.79,69.2,21.6,Ganhar Massa,3,17,Mensal,8,1
+115,Aluno_115,52,Masculino,1.68,72.4,25.7,Perda de Peso,2,31,Trimestral,1,1
+116,Aluno_116,54,Feminino,1.79,72.7,22.7,Perda de Peso,4,34,Trimestral,17,0
+117,Aluno_117,31,Feminino,1.67,62.8,22.5,Perda de Peso,3,24,Anual,5,1
+118,Aluno_118,20,Feminino,1.64,64.7,24.1,Perda de Peso,5,35,Trimestral,8,0
+119,Aluno_119,18,Feminino,1.89,75.3,21.1,Ganhar Massa,4,6,Trimestral,0,0
+120,Aluno_120,22,Feminino,1.81,72.1,22.0,Condicionamento,3,19,Anual,8,0
+121,Aluno_121,43,Masculino,1.52,90.4,39.1,Ganhar Massa,3,30,Mensal,15,1
+122,Aluno_122,31,Masculino,1.66,86.2,31.3,Perda de Peso,1,7,Mensal,12,0
+123,Aluno_123,56,Masculino,1.82,79.3,23.9,Ganhar Massa,5,10,Mensal,8,1
+124,Aluno_124,44,Feminino,1.58,62.4,25.0,Condicionamento,1,32,Anual,12,1
+125,Aluno_125,26,Masculino,1.78,64.4,20.3,Condicionamento,2,34,Trimestral,8,0
+126,Aluno_126,32,Feminino,1.77,60.0,19.2,Ganhar Massa,1,28,Anual,10,0
+127,Aluno_127,32,Feminino,1.63,72.8,27.4,Ganhar Massa,1,15,Anual,3,0
+128,Aluno_128,43,Masculino,1.7,42.6,14.7,Ganhar Massa,4,30,Trimestral,1,0
+129,Aluno_129,59,Masculino,1.49,65.4,29.5,Perda de Peso,3,29,Mensal,5,0
+130,Aluno_130,30,Feminino,1.88,66.9,18.9,Ganhar Massa,5,22,Mensal,13,0
+131,Aluno_131,49,Masculino,1.67,54.8,19.6,Ganhar Massa,1,4,Anual,3,1
+132,Aluno_132,56,Feminino,1.78,78.0,24.6,Ganhar Massa,5,20,Mensal,5,0
+133,Aluno_133,49,Feminino,1.76,58.6,18.9,Condicionamento,1,32,Anual,18,0
+134,Aluno_134,21,Feminino,1.84,72.7,21.5,Condicionamento,2,4,Anual,5,0
+135,Aluno_135,47,Feminino,1.66,97.8,35.5,Perda de Peso,1,27,Trimestral,1,0
+136,Aluno_136,54,Feminino,1.72,53.9,18.2,Perda de Peso,4,17,Trimestral,17,0
+137,Aluno_137,40,Masculino,1.76,68.5,22.1,Condicionamento,3,12,Trimestral,12,0
+138,Aluno_138,56,Masculino,1.79,65.9,20.6,Condicionamento,2,22,Anual,8,1
+139,Aluno_139,32,Feminino,1.82,64.0,19.3,Condicionamento,1,17,Trimestral,18,0
+140,Aluno_140,46,Feminino,1.65,77.6,28.5,Ganhar Massa,5,10,Mensal,12,1
+141,Aluno_141,53,Masculino,1.63,81.1,30.5,Ganhar Massa,2,1,Mensal,10,1
+142,Aluno_142,30,Masculino,1.84,77.7,23.0,Condicionamento,2,22,Anual,0,0
+143,Aluno_143,49,Feminino,1.5,62.8,27.9,Ganhar Massa,1,26,Anual,6,1
+144,Aluno_144,24,Masculino,1.86,94.3,27.3,Ganhar Massa,2,18,Trimestral,14,0
+145,Aluno_145,39,Feminino,1.67,52.3,18.8,Perda de Peso,5,14,Anual,0,1
+146,Aluno_146,45,Masculino,1.7,59.7,20.7,Condicionamento,2,29,Anual,11,0
+147,Aluno_147,19,Feminino,1.63,71.7,27.0,Condicionamento,5,12,Mensal,6,1
+148,Aluno_148,59,Masculino,1.7,70.9,24.5,Ganhar Massa,1,35,Mensal,14,1
+149,Aluno_149,23,Feminino,1.83,74.9,22.4,Condicionamento,3,12,Trimestral,18,1
+150,Aluno_150,45,Masculino,1.78,85.8,27.1,Perda de Peso,2,7,Anual,0,1
+151,Aluno_151,45,Masculino,1.75,68.8,22.5,Perda de Peso,3,29,Anual,16,0
+152,Aluno_152,37,Feminino,1.71,71.1,24.3,Perda de Peso,5,11,Mensal,16,0
+153,Aluno_153,47,Masculino,1.56,64.1,26.3,Condicionamento,2,33,Anual,2,0
+154,Aluno_154,28,Feminino,1.62,75.9,28.9,Condicionamento,4,6,Mensal,11,0
+155,Aluno_155,45,Masculino,1.67,66.8,24.0,Condicionamento,3,15,Trimestral,5,0
+156,Aluno_156,42,Feminino,1.75,66.8,21.8,Condicionamento,2,32,Mensal,10,0
+157,Aluno_157,56,Masculino,1.71,75.4,25.8,Condicionamento,3,11,Anual,2,1
+158,Aluno_158,50,Feminino,1.8,80.3,24.8,Perda de Peso,2,23,Trimestral,7,0
+159,Aluno_159,18,Masculino,1.75,47.9,15.6,Ganhar Massa,1,26,Mensal,13,1
+160,Aluno_160,44,Feminino,1.71,73.6,25.2,Perda de Peso,3,34,Mensal,13,0
+161,Aluno_161,30,Masculino,1.93,67.3,18.1,Condicionamento,4,34,Trimestral,9,1
+162,Aluno_162,58,Feminino,1.74,79.5,26.3,Perda de Peso,4,29,Trimestral,1,1
+163,Aluno_163,20,Feminino,1.66,67.5,24.5,Condicionamento,5,4,Mensal,13,0
+164,Aluno_164,56,Feminino,1.89,83.0,23.2,Condicionamento,2,17,Anual,8,0
+165,Aluno_165,23,Masculino,1.82,63.2,19.1,Perda de Peso,3,35,Mensal,2,1
+166,Aluno_166,25,Feminino,1.88,47.7,13.5,Condicionamento,5,13,Trimestral,7,0
+167,Aluno_167,44,Masculino,1.69,80.5,28.2,Ganhar Massa,3,15,Mensal,15,0
+168,Aluno_168,26,Feminino,1.8,61.6,19.0,Condicionamento,2,29,Trimestral,1,0
+169,Aluno_169,54,Masculino,1.55,54.2,22.6,Ganhar Massa,4,29,Trimestral,5,0
+170,Aluno_170,50,Feminino,1.78,70.2,22.2,Ganhar Massa,1,11,Anual,11,0
+171,Aluno_171,59,Masculino,1.68,67.6,24.0,Condicionamento,4,32,Trimestral,4,0
+172,Aluno_172,41,Masculino,1.56,78.2,32.1,Perda de Peso,5,2,Trimestral,1,0
+173,Aluno_173,32,Feminino,1.8,78.9,24.4,Ganhar Massa,1,14,Anual,15,0
+174,Aluno_174,49,Masculino,1.52,71.0,30.7,Perda de Peso,5,20,Trimestral,4,1
+175,Aluno_175,49,Masculino,1.51,61.2,26.8,Ganhar Massa,2,22,Anual,14,0
+176,Aluno_176,41,Feminino,1.74,72.9,24.1,Condicionamento,1,11,Anual,11,1
+177,Aluno_177,58,Masculino,1.76,71.7,23.1,Condicionamento,5,27,Trimestral,3,0
+178,Aluno_178,29,Masculino,1.8,75.7,23.4,Ganhar Massa,2,3,Trimestral,14,0
+179,Aluno_179,56,Masculino,1.77,61.3,19.6,Condicionamento,4,17,Mensal,10,0
+180,Aluno_180,19,Feminino,1.85,66.0,19.3,Ganhar Massa,2,28,Anual,15,0
+181,Aluno_181,20,Masculino,1.77,75.1,24.0,Condicionamento,3,29,Mensal,5,0
+182,Aluno_182,54,Feminino,1.69,82.5,28.9,Perda de Peso,2,21,Trimestral,13,0
+183,Aluno_183,34,Masculino,1.69,79.7,27.9,Condicionamento,2,16,Mensal,17,0
+184,Aluno_184,19,Masculino,1.67,70.8,25.4,Perda de Peso,3,20,Anual,11,0
+185,Aluno_185,19,Masculino,1.73,65.1,21.8,Condicionamento,5,6,Mensal,10,0
+186,Aluno_186,45,Feminino,1.59,74.0,29.3,Perda de Peso,5,19,Anual,12,0
+187,Aluno_187,40,Masculino,1.73,59.1,19.7,Condicionamento,2,5,Trimestral,10,0
+188,Aluno_188,54,Masculino,1.69,61.8,21.6,Perda de Peso,3,3,Trimestral,15,1
+189,Aluno_189,49,Feminino,1.73,85.1,28.4,Ganhar Massa,3,1,Anual,14,0
+190,Aluno_190,50,Masculino,1.73,74.0,24.7,Ganhar Massa,4,15,Trimestral,14,0
+191,Aluno_191,18,Feminino,1.45,66.5,31.6,Perda de Peso,5,34,Trimestral,3,1
+192,Aluno_192,36,Feminino,1.61,78.3,30.2,Condicionamento,1,35,Trimestral,10,0
+193,Aluno_193,19,Masculino,1.69,82.9,29.0,Perda de Peso,5,25,Trimestral,18,0
+194,Aluno_194,43,Feminino,1.69,65.6,23.0,Condicionamento,5,24,Anual,14,1
+195,Aluno_195,49,Masculino,1.73,65.7,22.0,Ganhar Massa,4,12,Mensal,3,0
+196,Aluno_196,23,Feminino,1.73,64.5,21.6,Condicionamento,1,18,Mensal,12,0
+197,Aluno_197,49,Feminino,1.85,79.6,23.3,Ganhar Massa,4,15,Trimestral,18,0
+198,Aluno_198,21,Masculino,1.73,79.7,26.6,Condicionamento,1,16,Mensal,1,0
+199,Aluno_199,28,Feminino,1.67,83.9,30.1,Condicionamento,2,27,Mensal,13,0
+200,Aluno_200,34,Feminino,1.54,80.1,33.8,Condicionamento,1,8,Trimestral,3,0
